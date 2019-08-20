@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Information about IP addresses </description>
+        <name>IPInfo</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://ipinfo.io</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>chelsea.garcia</sys_created_by>
+        <sys_created_on>2019-08-20 23:01:41</sys_created_on>
+        <sys_id>25b89acbdb1373000abb70e239961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPInfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_360127_iplookup">1f68dac3db9f33000abb70e23996193e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">1f68dac3db9f33000abb70e23996193e</sys_scope>
+        <sys_update_name>sys_rest_message_25b89acbdb1373000abb70e239961966</sys_update_name>
+        <sys_updated_by>chelsea.garcia</sys_updated_by>
+        <sys_updated_on>2019-08-20 23:01:41</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

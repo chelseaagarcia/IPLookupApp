@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>chelsea.garcia</sys_created_by>
+        <sys_created_on>2019-08-20 23:25:15</sys_created_on>
+        <sys_id>e26e16cfdb1373000abb70e2399619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_360127_iplookup_ipaddressinfo.x_360127_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_360127_iplookup">1f68dac3db9f33000abb70e23996193e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">1f68dac3db9f33000abb70e23996193e</sys_scope>
+        <sys_security_acl display_value="x_360127_iplookup_ipaddressinfo">226e16cfdb1373000abb70e2399619f4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e26e16cfdb1373000abb70e2399619f7</sys_update_name>
+        <sys_updated_by>chelsea.garcia</sys_updated_by>
+        <sys_updated_on>2019-08-20 23:25:15</sys_updated_on>
+        <sys_user_role display_value="x_360127_iplookup.ipaddressinfo_user" name="x_360127_iplookup.ipaddressinfo_user">de6e16cfdb1373000abb70e2399619d5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
